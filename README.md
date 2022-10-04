@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Mahdy Mubasyir ![Profile views](https://gpvc.arturio.dev/[mubasyir19])
+# Hi there 👋 I'm Mahdy Mubasyir
+![Profile views](https://gpvc.arturio.dev/[mubasyir19])
 
 [![Jairo Lachira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubasyir19&show_icons=true&hide_border=false&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
