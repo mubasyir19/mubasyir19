@@ -1,5 +1,5 @@
-### Hi there 👋
-![counter](https://[YourEndpoint].m.pipedream.net)
+### Hi there 👋 I'm Mahdy Mubasyir
+
 [![Jairo Lachira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubasyir19&show_icons=true&hide_border=false&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
