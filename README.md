@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mubasyir19&icon=0&color=2)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=mubasyir19&icon=0&color=2)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
