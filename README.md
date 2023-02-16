@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently studying on Gunadarma University<br>🌱 I’m currently learning<br>
+🔭 I’m currently studying on Gunadarma University<br>🌱 I’m currently learning ExpressJS MongoDB<br>
 
 
 ## 🌐 Socials:
