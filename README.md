@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdy Mubasyir</h1>
-<h3 align="center">A passionate web developer & programming Enthusiast</h3>
+<h3 align="center">A Passionate Web Developer & Programming Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasyir19&label=Profile%20views&color=0e75b6&style=flat" alt="mubasyir19" /> </p>
 
