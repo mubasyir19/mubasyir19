@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learn on [Bangkit Academy 2023](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing)
 
-- 🌱 I’m currently learning **ExpressJS, NextJS, React Native**
+- 🌱 I’m currently learning **ExpressJS, NextJS, React Native, & Laravel**
 
 - 👨‍💻 All of my projects are available at [https://mahdy-mubasyir.vercel.app/](https://mahdy-mubasyir.vercel.app/)
 
