@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasyir19&label=Profile%20views&color=0e75b6&style=flat" alt="mubasyir19" /> </p>
 
-- 🔭 I’m currently learn on [Bangkit Academy 2023](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing)
+- 🔭 I’m currently learn on Gunadarma University
 
 - 🌱 I’m currently learning **ExpressJS, NextJS, React Native, & Laravel**
 
