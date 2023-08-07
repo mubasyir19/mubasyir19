@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasyir19&label=Profile%20views&color=0e75b6&style=flat" alt="mubasyir19" /> </p>
 
-- 🔭 I’m currently learn on Gunadarma University
+- 🔭 I’m currently learn at Gunadarma University
 
 - 🌱 I’m currently learning **ExpressJS, NextJS, React Native, & Laravel**
 
