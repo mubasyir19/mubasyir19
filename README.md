@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learn at Gunadarma University
 
-- 🌱 I’m currently learning **NextJS, React Native, Go & Laravel**
+- 🌱 I’m currently learning **React Native & NestJS**
 
 - 👨‍💻 All of my projects are available at [https://mahdy-mubasyir.vercel.app/](https://mahdy-mubasyir.vercel.app/)
 
