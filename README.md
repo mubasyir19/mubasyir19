@@ -68,6 +68,14 @@
       <br>React Native
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="nestjs" />
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="sequelize" />
+      <br>Sequelize
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
     </td>
@@ -93,16 +101,22 @@
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
       <br>Figma
     </td>
-    <td align="center"  width="96">
+</tr>
+<tr>
+  <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
-    </td>
-    <td align="center" width="96">
+  </td>
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
       <br>Google Cloud
-    </td>
+  </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
+      <br>Vercel
+  </td>
 </tr>
 </table>
 
