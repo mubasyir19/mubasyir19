@@ -72,6 +72,10 @@
       <br>NestJS
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="sequelize" />
       <br>Sequelize
     </td>
@@ -97,12 +101,12 @@
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="96">
+</tr>
+<tr>
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
       <br>Figma
     </td>
-</tr>
-<tr>
   <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
