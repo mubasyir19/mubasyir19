@@ -105,14 +105,14 @@
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
       <br>Figma
     </td>
-</tr>
-<tr>
-  <td align="center"  width="96">
+    <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
   </td>
+</tr>
+<tr>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
       <br>Google Cloud
