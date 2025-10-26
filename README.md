@@ -126,8 +126,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubasyir19&show_icons=true&locale=en&layout=compact&theme=gotham" alt="mubasyir19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubasyir19&show_icons=true&locale=en&theme=gotham" alt="mubasyir19" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubasyir19&show_icons=true&v=2&locale=en&theme=gotham)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mubasyir19&theme=gotham&hide_border=false" alt="mubasyir19" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubasyir19&theme=tokyonight" alt="mubasyir19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubasyir19&theme=algolia" alt="mubasyir19" /></a> </p>
