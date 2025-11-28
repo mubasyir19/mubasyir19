@@ -57,16 +57,20 @@
       <br>Express
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
-      <br>NextJS
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="express" />
+      <br>NestJs
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
-      <br>ReactJS
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+      <br>NextJs
     </td>
 </tr>
 
 <tr>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
+      <br>ReactJs
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
       <br>React Native
@@ -87,6 +91,10 @@
         <img src="https://techstack-generator.vercel.app//mysql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="MySQL" />
+      <br>PostgreSQL
+    </td>
     <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -101,18 +109,18 @@
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="96">
+</tr>
+<tr>
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
       <br>Figma
     </td>
-    <td align="center"  width="96">
+  <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
   </td>
-</tr>
-<tr>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
       <br>Google Cloud
