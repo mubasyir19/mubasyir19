@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0a,50:0d3b1a,100:145214&height=200&section=header&text=Mahdy%20Mubasyir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0a,50:0d3b1a,100:145214&height=200&section=header&text=Mahdy%20Mubasyir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://mahdy-mubasyir.vercel.app/">
