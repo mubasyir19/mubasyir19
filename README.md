@@ -62,7 +62,6 @@ const mahdy: Developer = {
 ### ⚙️ Backend & Mobile
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-  &nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 ### 🗄️ Database & ORM
