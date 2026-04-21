@@ -1,141 +1,115 @@
-<h1 align="center">Hi 👋, I'm Mahdy Mubasyir</h1>
-<h3 align="center">Frontend Developer | Full-Stack Developer | Programming Enthusiast</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasyir19&label=Profile%20views&color=0e75b6&style=flat" alt="mubasyir19" /> </p>
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0a,50:0d3b1a,100:145214&height=200&section=header&text=Mahdy%20Mubasyir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 
-- 🔭 I’m informatics graduate from Gunadarma University
+<!-- Typing animation -->
+<a href="https://mahdy-mubasyir.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Building+elegant+web+experiences+%F0%9F%9A%80;Frontend+%26+Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **React Native & NestJS**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://mahdy-mubasyir.vercel.app/](https://mahdy-mubasyir.vercel.app/)
-
-- 📫 How to reach me **m.mubasyir19@gmail.com**
-
-- ⚡ Fun fact **I like play football, badminton**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahdy-mubasyir-699424210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdy-mubasyir-699424210" height="30" width="40" /></a>
-<a href="https://instagram.com/mubasyirmahdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubasyirmahdy" height="30" width="40" /></a>
+<!-- Profile views & social badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mubasyir19&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS" alt="profile views" />
+  &nbsp;
+  <a href="https://linkedin.com/in/mahdy-mubasyir-699424210">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/mubasyirmahdy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:m.mubasyir19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://mahdy-mubasyir.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+</div>
 
-<table align="center">
+---
 
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Typescript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="express" />
-      <br>NestJs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
-      <br>NextJs
-    </td>
-</tr>
+## 👨‍💻 About Me
 
-<tr>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
-      <br>ReactJs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
-      <br>React Native
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="sequelize" />
-      <br>Sequelize
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
-      <br>MongoDB
-    </td>
-    <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app//mysql-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="MySQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app//github-icon.svg" width="48" height="48" alt="Github" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-</tr>
-<tr>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
-      <br>Figma
-    </td>
-  <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-  </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
-      <br>Google Cloud
-  </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
-      <br>Vercel
-  </td>
-</tr>
-</table>
+```typescript
+const mahdy: Developer = {
+  name     : "Mahdy Mubasyir",
+  location : "Indonesia 🇮🇩",
+  education: "Informatics — Gunadarma University",
+  role     : ["Frontend Developer", "Full-Stack Developer"],
+  learning : ["React Native", "NestJS"],
+  hobbies  : ["⚽ Football", "🏸 Badminton"],
+  portfolio: "https://mahdy-mubasyir.vercel.app/",
+  contact  : "m.mubasyir19@gmail.com",
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubasyir19&show_icons=true&locale=en&layout=compact&theme=gotham" alt="mubasyir19" /></p>
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubasyir19&show_icons=true&v=2&locale=en&theme=gotham)
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mubasyir19&theme=gotham&hide_border=false" alt="mubasyir19" /></p>
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubasyir19&theme=algolia" alt="mubasyir19" /></a> </p>
+### ⚙️ Backend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  &nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
+### 🗄️ Database & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma,sequelize" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,gcp,vercel,postman" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mubasyir19&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mubasyir19&hide_border=true&background=0d1117&ring=4ade80&fire=22c55e&currStreakLabel=4ade80&sideLabels=4ade80&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubasyir19&show_icons=true&layout=compact&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mubasyir19&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubasyir19&bg_color=0d1117&color=4ade80&line=22c55e&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:145214,50:0d3b1a,100:0a1a0a&height=120&section=footer" />
+
+*"Code is craft. Ship with intention."*
+
+</div>
