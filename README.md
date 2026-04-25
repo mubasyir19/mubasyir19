@@ -44,7 +44,7 @@ const mahdy: Developer = {
   education: "Informatics — Gunadarma University",
   role     : ["Frontend Developer", "Full-Stack Developer"],
   learning : ["NestJS", "Golang"],
-  hobbies  : ["⚽ Football", "🏸 Badminton"],
+  hobbies  : ["🏃‍♂️ Running", "🏸 Badminton"],
   portfolio: "https://mahdy-mubasyir.vercel.app/",
   contact  : "m.mubasyir19@gmail.com",
 };
