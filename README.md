@@ -43,7 +43,7 @@ const mahdy: Developer = {
   location : "Indonesia 🇮🇩",
   education: "Informatics — Gunadarma University",
   role     : ["Frontend Developer", "Full-Stack Developer"],
-  learning : ["React Native", "NestJS"],
+  learning : ["NestJS", "Golang"],
   hobbies  : ["⚽ Football", "🏸 Badminton"],
   portfolio: "https://mahdy-mubasyir.vercel.app/",
   contact  : "m.mubasyir19@gmail.com",
